@@ -5,6 +5,18 @@ In my research and engineering work, I usually need the "raw" implementations of
 
 To save time I store the implementations that suit me the best in this repo so that I can reuse them whenever I need.
 
+## Ciphers
+
+### Python
+
+- [x] AES128
+- [ ] PRESENT
+
+### C
+ 
+- [ ] AES128
+- [ ] PRESENT
+
 ## :warning: Security Warning
 
 The implementations in this repo are just "raw" implementations and should not be used in products.
